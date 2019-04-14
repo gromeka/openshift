@@ -3,4 +3,4 @@
 i=1
 
 while i==1:
-  print("hello world")
+  print("hello world my friend")
