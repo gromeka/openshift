@@ -3,3 +3,9 @@
   width: 40px;
   height: 25px;
 }
+#openshift-logo.navbar-brand{
+   width: 193px;
+   height: 42px;
+   padding-left: 20px;
+   padding-top: 1px;
+}
